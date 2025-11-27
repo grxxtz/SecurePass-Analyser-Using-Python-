@@ -1,0 +1,3 @@
+#SecurePass Analyser
+
+SecurePass Analyzer is a Python based console application that performs password strength evaluation using rule based validation. It analyzes the input password for multiple security constraints including minimum length, uppercase and lowercase character presence, numeric characters, and special symbols. Each criterion is validated using Python’s built in string methods and character classification. The tool implements a modular function based architecture and uses dictionary based result mapping to compute a strength score and classification ranging from Very Weak to Very Strong. This project demonstrates practical application of Python concepts such as string processing, conditional branching, looping, and structured program development.
